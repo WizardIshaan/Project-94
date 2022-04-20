@@ -1,0 +1,30 @@
+.header {
+  font-size: 56px;
+  text-align: center;
+  background-color: yellow;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.body
+{
+   background-color: rgb(42, 95, 165);
+}
+
+img
+{
+   margin-top: 10px;
+   margin-left:600px;
+}
+button
+{
+   text-align: center;
+   height: 30px;
+   font-size: 22px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-color:gold;
+}
+input
+{
+  height: 30px;
+  width: 400px;
+  margin-bottom: 3px;
+}
